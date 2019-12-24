@@ -9,6 +9,7 @@ node_modules
 /bazel-testlogs
 /bazel-tf
 /bazel-workspace
+/.cache
 /third_party/py/numpy/numpy_include
 /util/python/python_include
 /util/python/python_lib

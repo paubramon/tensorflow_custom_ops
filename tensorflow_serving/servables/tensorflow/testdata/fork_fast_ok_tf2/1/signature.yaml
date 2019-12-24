@@ -1,0 +1,10 @@
+inputs:
+- name: images
+  type: IMAGE
+- name: images_id
+  type: NUMBER
+outputs:
+- name: bbox
+  type: BBOX
+- name: defect
+  type: CLASS_OK_NOK
